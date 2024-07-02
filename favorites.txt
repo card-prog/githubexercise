@@ -2,7 +2,5 @@ echo "Pizza" >> favorites.txt
 echo "Sushi" >> favorites.txt
 echo "Chocolate cake" >> favorites.txt
 
-echo "The Shawshank Redemption" >> favorites.txt
-echo "Inception" >> favorites.txt
-echo "The Dark Knight" >> favorites.txt
+
 
