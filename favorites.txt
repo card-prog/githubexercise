@@ -1,6 +1,3 @@
-echo "Pizza" >> favorites.txt
-echo "Sushi" >> favorites.txt
-echo "Chocolate cake" >> favorites.txt
 
 
 
