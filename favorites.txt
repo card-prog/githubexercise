@@ -1,0 +1,3 @@
+echo "The Shawshank Redemption" >> favorites.txt
+echo "Inception" >> favorites.txt
+echo "The Dark Knight" >> favorites.txt
