@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 The Shawshank Redemption
 Inception
 The Dark Knight
+=======
+echo "The Shawshank Redemption" >> favorites.txt
+echo "Inception" >> favorites.txt
+echo "The Dark Knight" >> favorites.txt
+>>>>>>> f89da6908dd8743a8bf65b5bd33e81f302aa02fb
